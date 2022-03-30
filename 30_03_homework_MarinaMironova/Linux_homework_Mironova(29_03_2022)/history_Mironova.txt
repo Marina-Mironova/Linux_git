@@ -1,0 +1,16 @@
+   0 nano /tmp/script.sh
+   1 cp /tmp/script.sh /opt
+   2 chmod +x /opt/script.sh
+   3 ./script.sh
+   4 script.sh
+   5 cp /tmp/script.sh /bin
+   6 chmod +x /bin/script.sh
+   7 script.sh
+   8 nano /tmp/script.sh
+   9 cp /tmp/script.sh /bin
+  10 chmod +x /bin/script.sh
+  11 script.sh
+  12 cd /opt/mydate
+  13 ls -la
+  14 cat newmydate.txt
+  15 history > /tmp/history_Mironova.txt
